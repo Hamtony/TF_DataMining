@@ -143,14 +143,8 @@ pip install -r requirements.txt
 # 4. Obtener los datos (opción A: directamente desde UCI)
 python -c "from ucimlrepo import fetch_ucirepo; d = fetch_ucirepo(id=697); print(d.data.features.shape)"
 
-#    Opción B: descargar el ZIP desde UCI y guardar el CSV en data/raw/
-#    (el archivo usa separador ';')
-
 # 5. Ejecutar los notebooks en orden (01 → 03)
 jupyter lab
-```
-
-**Dependencias previstas** (`requirements.txt`): `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `ucimlrepo`, `jupyterlab`. Se ampliarán en el TF1 (`optuna`, `mlflow`, `shap`, `streamlit`, etc.).
 
 ---
 
