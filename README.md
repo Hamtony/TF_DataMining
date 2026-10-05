@@ -75,10 +75,6 @@ Un listado priorizado de estudiantes en riesgo, con una explicación de los fact
 | **Origen** | Institución de educación superior de Portugal, integrando varias bases de datos independientes. Proyecto financiado por el programa SATDAP – Capacitação da Administração Pública (Portugal). |
 | **Licencia** | Creative Commons Attribution 4.0 International (**CC BY 4.0**): uso y adaptación permitidos con atribución. |
 
-**Cita sugerida:**
-> Realinho, V., Machado, J., Baptista, L., & Martins, M. V. (2021). *Predict Students' Dropout and Academic Success* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5MC89
-
-
 ### 2.2 Dimensiones y período
 
 | Característica | Valor |
